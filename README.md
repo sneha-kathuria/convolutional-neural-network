@@ -1,8 +1,9 @@
 # Convolutional Neural Network
 
 Repo content:
-* Build a CNN using Pytorch
-* Build a mobile app using a pre-trained model
+* An image classifier using keras on Fashion MNIST
+* An Face Detection using tensorflow
+* A mobile app using a pre-trained model
 
 Language Used: 
 Python 3.6
