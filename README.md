@@ -3,7 +3,7 @@
 Repo content:
 * An image classifier using keras on Fashion MNIST
 * An Face Detection using tensorflow
-* A mobile app using a pre-trained model
+* A mobile app using a pre-trained model using Tensorflow lite
 
 Language Used: 
 Python 3.6
