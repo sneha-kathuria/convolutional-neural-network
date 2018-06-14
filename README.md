@@ -2,14 +2,12 @@
 
 Repo content:
 * An image classifier using keras on Fashion MNIST
-* A mobile app using a pre-trained model using Tensorflow lite
+* An image classifier using keras on Kaggle Cats v/s Dogs (WIP)
 
 Language Used: 
 Python 3.6
 
 Cloud Service:
-Paperspace
+AWS p2.xlarge
 
-API:
-Flask Endpoint
 
