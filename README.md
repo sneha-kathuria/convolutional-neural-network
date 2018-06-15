@@ -1,6 +1,6 @@
 # Convolutional Neural Network
 
-Repo content:
+**Repo content**:
 * An image classifier using keras on Fashion MNIST
   * Ran on local computer
 * An image classifier using keras on Kaggle Cats v/s Dogs (WIP)
